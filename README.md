@@ -3,7 +3,7 @@
 🎯 Full Stack Developer | Android Engineer | Cybersecurity Enthusiast  
 💼 10+ years of experience in software development  
 📚 M.Sc. Cyber Security @ BTU Cottbus-Senftenberg  
-📍 Based in Cottbus, Germany  
+📍 Based in Berlin, Germany  
 
 ---
 
