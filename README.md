@@ -21,25 +21,29 @@
 
 ## 🚀 Projects
 
-### 🏫 Fully Electronic School (Web & Android)  
-Complete school management system with real-time messaging, assignments, and grading  
-🔗 [View on GitHub](https://github.com/karimiali2005)
+### 🏫 Fully Electronic School Web  
+complete school management system built with ASP.NET Core and React for e-learning, student management, and real-time communication
+🔗 [View on GitHub](https://github.com/karimiali2005/E-School-UI-API-SignalR)
+
+### 🏫 Fully Electronic School Android  
+An Android app developed in Java for school communication, delivering messaging, assignments, and report card features to parents and students.
+🔗 [View on GitHub](https://github.com/karimiali2005/E-School-Android-)
 
 ### 🛒 Foolad Yar Shop Platform  
-E-commerce and workflow system for a steel company using React, Next.js, and Java  
-🔗 [View on GitHub](https://github.com/karimiali2005)
+A web-based e-commerce and workflow platform using React and Next.js, integrated with back-end services to improve business efficiency.
+
 
 ### 📝 Steel Company Survey System  
-Web-based survey platform with 50,000+ users, built with ASP.NET MVC and Kendo UI  
-🔗 [View on GitHub](https://github.com/karimiali2005)
+A web application (ASP.NET MVC) for creating and conducting large-scale employee surveys, reducing paper usage by 95%.Web-based survey platform with 50,000+ users, built with ASP.NET MVC and Kendo UI  
+
 
 ### ❤️ Charity Donation App (Android)  
-Android app for real-time donation logging and reporting using Java and REST API  
-🔗 [View on GitHub](https://github.com/karimiali2005)
+An Android application in Java for tracking donations and enabling transparency for non-profit organizations.
+🔗 [View on GitHub](https://github.com/karimiali2005/Charitable-Application-Android)
 
 ### 🛰️ Telecom Leave App  
 Android app for submitting leave and mission requests with manager approval  
-🔗 [View on GitHub](https://github.com/karimiali2005)
+
 
 ### 🏗️ Building Contractor Software  
 Legacy project using Delphi + SQL Server to manage construction resources and calculations
