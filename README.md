@@ -33,8 +33,14 @@ An Android app developed in Java for school communication, delivering messaging,
 A web-based e-commerce and workflow platform using React and Next.js, integrated with back-end services to improve business efficiency.
 
 
-### 📝 Steel Company Survey System  
-A web application (ASP.NET MVC) for creating and conducting large-scale employee surveys, reducing paper usage by 95%.Web-based survey platform with 50,000+ users, built with ASP.NET MVC and Kendo UI  
+### 📝 Steel Company Employee Survey Platform
+
+An enterprise-grade Java backend with Angular frontend and SQL Server database, used by 50,000+ employees at Foolad Mobarakeh.  
+• Digitized large-scale health and satisfaction surveys, cutting paper usage by 95%  
+• Dynamic form builder and scheduling engine for recurring questionnaires  
+• Role-based access control with Active Directory SSO integration  
+• Automated email reminders and in-app notifications to maximize response rates  
+• Real-time dashboards and exportable reports (PDF/Excel) for HR and management  
 
 
 ### ❤️ Charity Donation App (Android)  
